@@ -17,14 +17,8 @@ git clone https://github.com/Radhika97-engg/Smart_Sensor_Logger.git
 cd Smart_Sensor_Logger
 
 Use GCC to compile the project:
-sh
-Copy
-Edit
 gcc main.c sensor.c file_io.c data_processing.c menu.c -o sensor_logger
 Run the Executable
-sh
-Copy
-Edit
 ./sensor_logger
 Usage
 1️⃣ Run the program.
